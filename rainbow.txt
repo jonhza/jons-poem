@@ -3,5 +3,6 @@ the rainbow (not by jon hanson)
 red
 orange
 yellow
+green
 blue
 
